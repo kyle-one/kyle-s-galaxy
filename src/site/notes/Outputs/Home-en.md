@@ -28,5 +28,5 @@ A MOC is a Map of Content. Thanks to the double-chain feature of obsidian, I can
 
 You can choose from the MOC keywords below to enter and watch.
 ### Recent Notes
-Of course, you can also read recent notes based ontimeline.
+Of course, you can also read recent notes based on timeline.
 
