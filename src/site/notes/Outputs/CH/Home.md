@@ -28,16 +28,14 @@ ResearchGate: [Yongkun Liu](https://www.researchgate.net/profile/Yongkun-Liu-2)
 ### MOC
 MOC是指内容地图（Map of Content）。得益于obsidian的双链特性，在这里我可以使用更细粒度的链接，将相关的内容有机的联系在一起，形成有机的知识网。MOC与 #标签 类似，但是可以更细粒度的内嵌在文章中。
 
-你可以根据下面的MOC关键词选择进入观看。
+你可以根据下面的MOC关键词选择进入观看：
+
 ### Recent Notes
-当然，也可以根据时间轴阅读最近的笔记
+当然，也可以根据时间轴阅读最近的笔记。
 | File                                                                     | Date       |
 | ------------------------------------------------------------------------ | ---------- |
+| [[MyNote/Permanent/从零开始Ubuntu配置Oyente环境\|从零开始Ubuntu配置Oyente环境]]       | 2023-10-11 |
 | [[MyNote/Permanent/从零开始WSL2配置ubuntu18.04环境\|从零开始WSL2配置ubuntu18.04环境]] | 2023-10-07 |
-| [[Outputs/CH/About Me\|About Me]]                                     | 2023-10-12 |
-| [[Outputs/CH/Home\|Home]]                                             | 2023-10-12 |
-| [[Outputs/EN/About Me\|About Me]]                                     | 2023-10-12 |
-| [[Outputs/EN/Home-en\|Home-en]]                                       | 2023-10-12 |
 
 { .block-language-dataview}
 
