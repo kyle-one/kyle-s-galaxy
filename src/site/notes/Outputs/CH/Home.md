@@ -31,12 +31,13 @@ MOC是指内容地图（Map of Content）。得益于obsidian的双链特性，�
 你可以根据下面的MOC关键词选择进入观看。
 ### Recent Notes
 当然，也可以根据时间轴阅读最近的笔记
-| File                                 | Date       |
-| ------------------------------------ | ---------- |
-| [[Outputs/CH/About Me\|About Me]] | 2023-10-12 |
-| [[Outputs/CH/Home\|Home]]         | 2023-10-12 |
-| [[Outputs/EN/About Me\|About Me]] | 2023-10-12 |
-| [[Outputs/EN/Home-en\|Home-en]]   | 2023-10-12 |
+| File                                                                     | Date       |
+| ------------------------------------------------------------------------ | ---------- |
+| [[MyNote/Permanent/从零开始WSL2配置ubuntu18.04环境\|从零开始WSL2配置ubuntu18.04环境]] | 2023-10-07 |
+| [[Outputs/CH/About Me\|About Me]]                                     | 2023-10-12 |
+| [[Outputs/CH/Home\|Home]]                                             | 2023-10-12 |
+| [[Outputs/EN/About Me\|About Me]]                                     | 2023-10-12 |
+| [[Outputs/EN/Home-en\|Home-en]]                                       | 2023-10-12 |
 
 { .block-language-dataview}
 
