@@ -33,6 +33,7 @@ source ~/.bashrc
 ```
 go version
 ```
+## 安装Oyente相关库
 安装solc。Oyente 目前只支持 0.4.19 以下的 solidity 版本
 ```
 pip3 install solc-select
@@ -64,7 +65,7 @@ git clone https://github.com/ethereum/go-ethereum.git
 cd go-ethereum 
 # 切换分支
 git checkout v1.7.3
-#编译
+# 编译
 make all
 # 配置环境
 sudo vim ~/.bashrc
@@ -102,6 +103,7 @@ Command "/usr/bin/python3 -u -c "import setuptools, tokenize;__file__='/tmp/pip-
 ```
 sudo apt-get install libpython3.8-dev
 ```
+## 安装Oyente和测试运行
 下载oyente
 ```
 git clone https://github.com/enzymefinance/oyente.git
@@ -118,7 +120,7 @@ mkdir ~/test
 # 新建 .sol 智能合约 
 vim ~/test/test.sol
 
-#test.sol 合约
+# test.sol 合约
 pragma solidity >=0.4.19;
 
 contract test {
