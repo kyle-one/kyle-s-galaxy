@@ -16,7 +16,7 @@ If you are in English, please click -> [[Outputs/EN/Home-en\|Home-en]]
 - 常驻珠海，欢迎约饭
 ### 10分钟内认识我
 在 [[Outputs/CH/About Me\|About Me]] 中查看！（未完成）
-### 其他媒体
+### 在其他地方找到我
 Github: [kyle-one](https://github.com/kyle-one)   
 Zhihu: [东林](https://www.zhihu.com/people/liu-yong-kun-19)   
 Mail: <a href="mailto:Lyk39@mail2.sysu.edu.cn">Lyk39@mail2.sysu.edu.cn</a>     
