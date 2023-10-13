@@ -7,11 +7,11 @@
 查看分发列表 `wsl --list --online`
 安装 `wsl --install -d Ubuntu-18.04`
 配置代理
-```text
+```
 nano ~/.profile
 ```
 在文件末尾粘贴以下内容：
-```text
+```
 # set proxy
 proxy=http://$(cat /etc/resolv.conf |grep -oP '(?<=nameserver\ ).*'):7890
 export http_proxy=$proxy
@@ -21,7 +21,7 @@ export ALL_PROXY=$proxy
 export no_proxy="localhost,127.0.0.1"
 ```
 让设置立刻生效：
-```text
+```
 source ~/.profile
 ```
 测试一下是否能访问google
