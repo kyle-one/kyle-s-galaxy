@@ -17,10 +17,10 @@ If you are in English, please click -> [[Outputs/EN/Home-en\|Home-en]]
 ### 10分钟内认识我
 在 [[Outputs/CH/About Me\|About Me]] 中查看！（未完成）
 ### 在其他地方找到我
-Github: [kyle-one](https://github.com/kyle-one)   
-Zhihu: [东林](https://www.zhihu.com/people/liu-yong-kun-19)   
-Mail: <a href="mailto:Lyk39@mail2.sysu.edu.cn">Lyk39@mail2.sysu.edu.cn</a>     
-ResearchGate: [Yongkun Liu](https://www.researchgate.net/profile/Yongkun-Liu-2)
+🙀Github: [kyle-one](https://github.com/kyle-one)   
+📘Zhihu: [东林](https://www.zhihu.com/people/liu-yong-kun-19)   
+📧Mail: <a href="mailto:Lyk39@mail2.sysu.edu.cn">Lyk39@mail2.sysu.edu.cn</a>     
+📒ResearchGate: [Yongkun Liu](https://www.researchgate.net/profile/Yongkun-Liu-2)
 ## 🗺️这是哪？
 这是一个数字花园！我在这里分享我正在做的事情，正在学习的知识，以及技术博客等。
 
