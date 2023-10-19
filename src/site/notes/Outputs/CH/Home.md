@@ -15,7 +15,7 @@ If you are in English, please click -> [[Outputs/EN/Home-en\|Home-en]]
 - 最近在游泳、骑行和各种运动
 - 常驻珠海/广州，欢迎约饭
 ### 10分钟内认识我
-在 [[Outputs/CH/About Me\|About Me]] 中查看！（未完成）
+在 [[Outputs/CH/About Me\|About Me]] 中查看！
 ### 在其他地方找到我
 🙀Github: [kyle-one](https://github.com/kyle-one)   
 📘Zhihu: [东林](https://www.zhihu.com/people/liu-yong-kun-19)   
@@ -50,3 +50,6 @@ test
 暂无，嘤嘤嘤。
 
 </div></div>
+
+
+<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center;"> <div style="display: flex; flex-direction: column; justify-content: center;align-items:center;"> <img style="padding: 10px" src="../../Others/Assets/Github.png"/> <a href="https://notes.thatother.dev/">That Other Dev</a> </div> <div style="display: flex; flex-direction: column; justify-content: center;align-items: center"> <img style="padding: 10px" src="https://res.cloudinary.com/dix4ngy25/image/upload/c_scale,r_8,w_300/v1668068103/dgdocs/CleanShot_2022-11-10_at_09.14.47_2x.png"/> <a href="https://syleria.netlify.app/">Syleria</a> </div> </div>
