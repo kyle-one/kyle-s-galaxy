@@ -26,6 +26,13 @@ If you are in English, please click -> [[Outputs/EN/Home-en\|Home-en]]
 
 <div style="display: inline-flex; justify-content: center; margin-top: 25px;"> <a href="https://www.researchgate.net/profile/Yongkun-Liu-2" target="_blank"> <button style=" font-size: 15px; padding: 10px; height: fit-content; margin-top: 0px; cursor: pointer;background: var(--text-accent); font-weight: 600;color: #000000; background-color: #D9EAFB"> 📒ResearchGate: Yongkun Liu </button> </a>
 </div> 
+
+<div style="display: inline-flex; justify-content: center; margin-right: 50px;margin-top: 25px;"> <a href="https://www.researchgate.net/profile/Yongkun-Liu-2" target="_blank"> <button style=" font-size: 15px; padding: 10px; height: fit-content; margin-top: 0px; cursor: pointer;background: var(--text-accent); font-weight: 600;color: #000000; background-color: #FFB6C1"> 📕小红书: 东林大区的奇思妙想 </button> </a>
+</div> 
+
+<div style="display: inline-flex; justify-content: center; margin-right: 50px;margin-top: 25px;"> <a href="https://www.researchgate.net/profile/Yongkun-Liu-2" target="_blank"> <button style=" font-size: 15px; padding: 10px; height: fit-content; margin-top: 0px; cursor: pointer;background: var(--text-accent); font-weight: 600;color: #000000; background-color: #FFE4B5"> 📙即刻: 东林大区公民 </button> </a>
+</div> 
+
 </div>
 
 ## 🗺️这是哪？
