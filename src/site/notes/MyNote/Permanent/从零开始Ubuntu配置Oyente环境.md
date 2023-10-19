@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/MyNote/Permanent/从零开始Ubuntu配置Oyente环境/"}
 ---
 
-在 [[MyNote/Permanent/从零开始WSL2配置ubuntu18.04环境\|从零开始WSL2配置ubuntu18.04环境]] 后，进行该文的配置。
+在 [[MyNote/Permanent/从零开始WSL2配置ubuntu18.04环境\|从零开始WSL2配置ubuntu18.04环境]] 后，进行[[Oyente\|Oyente]]环境的配置。
 ## 安装go1.7
 
 从官网[All releases - The Go Programming Language](https://go.dev/dl/) 找到想要安装版本的链接
