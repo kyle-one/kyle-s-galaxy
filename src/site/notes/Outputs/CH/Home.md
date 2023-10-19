@@ -54,5 +54,5 @@ MOC是指内容地图（Map of Content）。得益于obsidian的双链特性，�
 
 { .block-language-dataview}
 
-<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; color:#D3D3D3"><p>Friend links: </p>  <a href="https://songqikong.github.io/" target="_blank" style="color: #D3D3D3;">&nbsp Songqikong's Blog </a> </div>
+<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; font-size: 12px; color:#C3C3C3"><p>Friend links: </p>  <a href="https://songqikong.github.io/" target="_blank" style="color: #C3C3C3; font-size: 12px; ">&nbsp Songqikong's Blog </a> </div>
 
