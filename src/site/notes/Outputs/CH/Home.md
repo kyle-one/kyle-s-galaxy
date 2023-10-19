@@ -17,6 +17,15 @@ If you are in English, please click -> [[Outputs/EN/Home-en\|Home-en]]
 ### 10分钟内认识我
 在 [[Outputs/CH/About Me\|About Me]] 中查看！
 ### 在其他地方找到我
+<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center;">
+<div style="display: inline-flex; justify-content: center; cursor: pointer; margin-right: 50px;"> <a href="https://github.com/kyle-one" target="_blank"> <button style=" font-size: 18px; padding: 10px; height: fit-content; margin-top: 50px; background: var(--text-accent); font-weight: 600; color: #FFFFFF; background-color: #1F1F1F">🙀 Github  </button> </a> 
+</div>
+<div style="display: inline-flex; justify-content: center; cursor: pointer;margin-right: 50px;"> <a href="https://www.zhihu.com/people/liu-yong-kun-19" target="_blank"> <button style=" font-size: 18px; padding: 10px; height: fit-content; margin-top: 50px; background: var(--text-accent); font-weight: 600; color: var(--text-on-accent); background-color: #0279FF"> 知乎 </button> </a> </div> 
+<div style="display: inline-flex; justify-content: center; cursor: pointer;margin-right: 50px;"> <a href="mailto:Lyk39@mail2.sysu.edu.cn" target="_blank"> <button style=" font-size: 18px; padding: 10px; height: fit-content; margin-top: 50px; background: var(--text-accent); font-weight: 600; color: var(--text-on-accent); background-color: #afafaf"> Email </button> </a>
+</div> 
+<div style="display: inline-flex; justify-content: center; cursor: pointer;"> <a href="https://www.researchgate.net/profile/Yongkun-Liu-2" target="_blank"> <button style=" font-size: 18px; padding: 10px; height: fit-content; margin-top: 50px; background: var(--text-accent); font-weight: 600; color: var(--text-on-accent); background-color: #ffffff"> ResearchGate </button> </a>
+</div> 
+</div>
 🙀Github: [kyle-one](https://github.com/kyle-one)   
 📘Zhihu: [东林](https://www.zhihu.com/people/liu-yong-kun-19)   
 📧Mail: <a href="mailto:Lyk39@mail2.sysu.edu.cn">Lyk39@mail2.sysu.edu.cn</a>     
@@ -50,8 +59,4 @@ test
 暂无，嘤嘤嘤。
 
 </div></div>
-
-
-
-<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center;"> <div style="display: flex; flex-direction: column; justify-content: center;align-items:center;"> <img style="padding: 10px" src="/img/user/Others/Assets/Github.png"/> <a href="https://notes.thatother.dev/">That Other Dev</a> </div> <div style="display: flex; flex-direction: column; justify-content: center;align-items: center"> <img style="padding: 10px" src="https://res.cloudinary.com/dix4ngy25/image/upload/c_scale,r_8,w_300/v1668068103/dgdocs/CleanShot_2022-11-10_at_09.14.47_2x.png"/> <a href="https://syleria.netlify.app/">Syleria</a> </div> </div>
 
