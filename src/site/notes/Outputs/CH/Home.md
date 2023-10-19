@@ -5,8 +5,6 @@
 # Kyle’s 🏡
 
 If you are in English, please click -> [[Outputs/EN/Home-en\|Home-en]]
-如果你想来点音乐：
-<audio controls loop> <source src="/img/user/Others/Assets/nan_jing.mp3" type="audio/mpeg"> Your browser does not support the audio element. </audio>
 ## 🤯我是谁？
 ### 10秒钟之内认识我 
 - 23岁；天秤；INTJ；
