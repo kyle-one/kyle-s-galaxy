@@ -5,7 +5,8 @@
 # Kyle’s 🏡
 
 If you are in English, please click -> [[Outputs/EN/Home-en\|Home-en]]
-![[你离开了南京，从此沒有人和我说话.mp3]]
+如果你想来点音乐：
+<audio controls> <source src="/img/user/Others/Assets/nan_jing.mp3" type="audio/mpeg"> Your browser does not support the audio element. </audio>
 ## 🤯我是谁？
 ### 10秒钟之内认识我 
 - 23岁；天秤；INTJ；
@@ -55,4 +56,4 @@ MOC是指内容地图（Map of Content）。得益于obsidian的双链特性，�
 { .block-language-dataview}
 
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; font-size: 12px; color:#C3C3C3"><p>Friend links: </p>  <a href="https://github.com/kyle-one/kyle-s-galaxy/blob/main/src/site/img/user/Others/Assets/nan_jing.mp3" target="_blank" style="color: #C3C3C3; font-size: 12px; ">&nbsp Songqikong's Blog </a> </div>
-<audio controls> <source src="/img/user/Others/Assets/nan_jing.mp3" type="audio/mpeg"> Your browser does not support the audio element. </audio>
+
