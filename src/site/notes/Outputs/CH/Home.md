@@ -5,7 +5,7 @@
 # Kyle’s 🏡
 
 If you are in English, please click -> [[Outputs/EN/Home-en\|Home-en]]
-
+![[你离开了南京，从此沒有人和我说话.mp3]]
 ## 🤯我是谁？
 ### 10秒钟之内认识我 
 - 23岁；天秤；INTJ；
