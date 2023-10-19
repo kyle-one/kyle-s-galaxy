@@ -55,4 +55,4 @@ MOC是指内容地图（Map of Content）。得益于obsidian的双链特性，�
 { .block-language-dataview}
 
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; font-size: 12px; color:#C3C3C3"><p>Friend links: </p>  <a href="https://github.com/kyle-one/kyle-s-galaxy/blob/main/src/site/img/user/Others/Assets/nan_jing.mp3" target="_blank" style="color: #C3C3C3; font-size: 12px; ">&nbsp Songqikong's Blog </a> </div>
-<audio controls> <source src="your-audio-file.mp3" type="audio/mpeg"> Your browser does not support the audio element. </audio>
+<audio controls> <source src="https://github.com/kyle-one/kyle-s-galaxy/blob/main/src/site/img/user/Others/Assets/nan_jing.mp3" type="audio/mpeg"> Your browser does not support the audio element. </audio>
