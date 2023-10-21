@@ -20,6 +20,9 @@ Empirical Study就是发现了某个有意思的话题/观点/问题，于是可
 
 我的感受：
 软工中的Empirical Study特别像文科中的理科，理科中的文科。
+
+事实上：
+如果想做一个比较创新的方向，比较好的流程也是：先写一篇Empirical Study，中个比较好的会议或者期刊。再根据Empirical Study提出的方向，进行后续这个较新方向的研究。
 #### 软件工程领域常见的Empirical Study组成部分（简洁版）
 ##### 1. Research Question
 整篇文章都是围绕着你提出的RQ来进行写作的。从Introduction引入RQ，到Methodology中如何回答RQ，再到Results中围绕着RQ得到了什么findings。
