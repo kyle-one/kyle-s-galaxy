@@ -1,5 +1,11 @@
+@import url(https://cdn.staticfile.org/lxgw-wenkai-webfont/1.6.0/style.css);
+@import url(https://192960944.r.cdn36.com/chinesefonts2/packages/lxgwwenkai/dist/LXGWWenKai-Light/result.css) 
 body {
-  font-family:'LXGW WenKai Light';
+  font-family: "LXGW WenKai", sans-serif;
+  .content {
+    font-family: "LXGW WenKai", sans-serif;
+  }
+
     
     /***
       ADD YOUR CUSTOM STYLIING HERE. (INSIDE THE body {...} section.)
