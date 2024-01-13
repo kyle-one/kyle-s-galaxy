@@ -42,17 +42,18 @@ If you are in English, please click -> [[Outputs/EN/Home-en\|Home-en]]
 MOC是指内容地图（Map of Content）。得益于obsidian的双链特性，在这里我可以使用更细粒度的链接，将相关的内容有机的联系在一起，形成有机的知识网。MOC与 #标签 类似，但是可以更细粒度的内嵌在文章中。
 
 你可以根据下面的MOC关键词选择进入观看：
-[[智能合约漏洞检测\|智能合约漏洞检测]]、[[Oyente\|Oyente]]
+[[智能合约漏洞检测\|智能合约漏洞检测]]、[[Cards/Concept/Oyente\|Oyente]]
 ### Recent Notes
 当然，也可以根据时间轴阅读最近的笔记。
-| File                                                                              | Date       |
-| --------------------------------------------------------------------------------- | ---------- |
-| [[什么是Empirical Study ——开始进入软件工程领域科研的疑问\|什么是Empirical Study ——开始进入软件工程领域科研的疑问]] | 2023-10-21 |
-| [[Outputs/CH/使用autohotkey快速剪藏信息进入Obsidian\|使用autohotkey快速剪藏信息进入Obsidian]]      | 2023-10-21 |
-| [[Oyente\|Oyente]]                                                             | 2023-10-19 |
-| [[Outputs/CH/拍的照片\|拍的照片]]                                                      | 2023-10-17 |
-| [[MyNote/Permanent/从零开始Ubuntu配置Oyente环境\|从零开始Ubuntu配置Oyente环境]]                | 2023-10-11 |
-| [[MyNote/Permanent/从零开始WSL2配置ubuntu18.04环境\|从零开始WSL2配置ubuntu18.04环境]]          | 2023-10-07 |
+| File                                                                                         | Date       |
+| -------------------------------------------------------------------------------------------- | ---------- |
+| [[科研的意义在于____？（研一版）\|科研的意义在于____？（研一版）]]                                                  | 2024-01-13 |
+| [[Outputs/CH/什么是Empirical Study ——开始进入软件工程领域科研的疑问\|什么是Empirical Study ——开始进入软件工程领域科研的疑问]] | 2023-10-21 |
+| [[Outputs/CH/使用autohotkey快速剪藏信息进入Obsidian\|使用autohotkey快速剪藏信息进入Obsidian]]                 | 2023-10-21 |
+| [[Cards/Concept/Oyente\|Oyente]]                                                          | 2023-10-19 |
+| [[Outputs/CH/拍的照片\|拍的照片]]                                                                 | 2023-10-17 |
+| [[MyNote/Permanent/从零开始Ubuntu配置Oyente环境\|从零开始Ubuntu配置Oyente环境]]                           | 2023-10-11 |
+| [[MyNote/Permanent/从零开始WSL2配置ubuntu18.04环境\|从零开始WSL2配置ubuntu18.04环境]]                     | 2023-10-07 |
 
 { .block-language-dataview}
 
