@@ -26,11 +26,6 @@ If you are in English, please click -> [[Outputs/EN/Home-en\|Home-en]]
 <div style="display: inline-flex; justify-content: center; margin-top: 25px; margin-right: 25px; margin-left: 25px; "> <a href="https://www.researchgate.net/profile/Yongkun-Liu-2" target="_blank"> <button style=" font-size: 15px; padding: 10px; height: fit-content; margin-top: 0px; cursor: pointer;background: var(--text-accent); font-weight: 600;color: #000000; background-color: #D9EAFB"> 📒ResearchGate: Yongkun Liu </button> </a>
 </div> 
 
-<div style="display: inline-flex; justify-content: center; margin-right: 25px; margin-left: 25px; margin-top: 25px;"> <a href="https://www.xiaohongshu.com/user/profile/5bfbe42051783a7cfb5ec5bf" target="_blank"> <button style=" font-size: 15px; padding: 10px; height: fit-content; margin-top: 0px; cursor: pointer;background: var(--text-accent); font-weight: 600;color: #000000; background-color: #FFB6C1"> 📕小红书: 东林大区的奇思妙想 </button> </a>
-</div> 
-
-<div style="display: inline-flex; justify-content: center; margin-right: 25px; margin-left: 25px; margin-top: 25px;"> <a href="https://web.okjike.com/u/2d398e62-527d-48e8-84df-9f63178d3966" target="_blank"> <button style=" font-size: 15px; padding: 10px; height: fit-content; margin-top: 0px; cursor: pointer;background: var(--text-accent); font-weight: 600;color: #000000; background-color: #FFE4B5"> 📙即刻: 东林大区公民 </button> </a>
-</div> 
 
 </div>
 
@@ -47,7 +42,7 @@ MOC是指内容地图（Map of Content）。得益于obsidian的双链特性，�
 当然，也可以根据时间轴阅读最近的笔记。
 | File                                                                                         | Date       |
 | -------------------------------------------------------------------------------------------- | ---------- |
-| [[科研的意义在于____？（研一版）\|科研的意义在于____？（研一版）]]                                                  | 2024-01-13 |
+| [[MyNote/Permanent/科研的意义在于____？（研一版）\|科研的意义在于____？（研一版）]]                                 | 2024-01-13 |
 | [[Outputs/CH/什么是Empirical Study ——开始进入软件工程领域科研的疑问\|什么是Empirical Study ——开始进入软件工程领域科研的疑问]] | 2023-10-21 |
 | [[Outputs/CH/使用autohotkey快速剪藏信息进入Obsidian\|使用autohotkey快速剪藏信息进入Obsidian]]                 | 2023-10-21 |
 | [[Cards/Concept/Oyente\|Oyente]]                                                          | 2023-10-19 |
