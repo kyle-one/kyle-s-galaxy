@@ -12,7 +12,7 @@
 复制链接->粘贴；
 这个流程太过繁琐。
 
-所以使用AutoHotkey简化这一流程，使用[[AutoHotkey\|AutoHotkey]]快速剪藏信息进入[[Cards/Concept/obsidian\|obsidian]]。
+所以使用AutoHotkey简化这一流程，使用[[Cards/Concept/AutoHotkey\|AutoHotkey]]快速剪藏信息进入[[Cards/Concept/obsidian\|obsidian]]。
 #### AutoHotkey
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
